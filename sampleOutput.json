@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "lequipe",
+                "name": "L'equipe"
+            },
+            "author": "L'EQUIPE",
+            "title": "Programme TV foot : à quelle heure et sur quelle chaîne voir les matchs de ce soir (8 mars 2023) ?",
+            "description": "Retrouvez l'intégralité des retransmissions des matches de football du jour diffusés sur toutes les chaînes du bouquet TNT, Câble et Satellite. Ligue 1, Ligue 2, Premier League, coupes d'Europe... Suivez tous les matches en direct sur votre télévision ou en s…",
+            "url": "https://www.lequipe.fr/Football/Actualites/Programme-tv-foot-a-quelle-heure-et-sur-quelle-chaine-voir-les-matchs-de-ce-soir-8-mars-2023/1384620",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/-/1500000001560312/4:0,2500:1664-640-427-75/16a19.jpg",
+            "publishedAt": "2023-03-08T06:00:16+00:00",
+            "content": "Ligue des champions : 8e de finale 8e de finale \r\n- Tottenham - AC Milan : à 21 heures en direct sur beIN Sports 1 - Bayern Munich - Paris-SG : à 21 heures en direct sur Canal+, RMC Sport 1, RMC Spor… [+19 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Lloyd Burnard",
+            "title": "SA football community mourns, PSL confirms 'moment of silence' after Mtolo's training ground death",
+            "description": "The South African football community was mourning on Tuesday following the sudden death of Richards Bay PSL star Siphamandla Mtolo.",
+            "url": "https://www.news24.com/sport/soccer/psl/sa-football-community-mourns-psl-confirms-moment-of-silence-after-mtolos-training-ground-death-20230307",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/8496/ea54e3373c2948b89b011a47c9ad5e31.jpg",
+            "publishedAt": "2023-03-07T21:56:06+00:00",
+            "content": "The South African football community was mourning on Tuesday following the sudden death of Richards Bay Premier Soccer League (PSL) star Siphamandla Mtolo.\r\nMtolo's club confirmed that he had died su… [+2053 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "'What are you trying to say?' - Arsenal Honesty Cards",
+            "description": "High flying Gunners Bukayo Saka and Eddie Nketiah learn all about each other as they face the Football Focus Honesty Cards.",
+            "url": "http://www.bbc.co.uk/sport/av/football/64863913",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1753A/production/_128864559_p0f72zhk.jpg",
+            "publishedAt": "2023-03-07T11:22:15.3605117Z",
+            "content": "High flying Gunners Bukayo Saka and Eddie Nketiah learn all about each other as they face the Football Focus Honesty Cards.\r\nAvailable to users in the UK only\r\nWatch Football Focus on BBC iPlayer.\r\nG… [+43 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
